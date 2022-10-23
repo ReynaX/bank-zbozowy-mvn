@@ -1,4 +1,4 @@
 # bank-zbozowy-mvn
 
-![example workflow](https://github.com/<user>/<repo>/actions/workflows/<file>
+![ci workflow](https://github.com/ReynaX/bank-zbozowy-mvn/actions/workflows/ci.yml
 /badge.svg)
